@@ -1,6 +1,6 @@
 Variants 1: Pieslēgšanās e-pastam
 Atvērt interneta pārlūku.
-Ievadīt adresi gmail.com (Ввести адрес).
+Ievadīt adresi.
 Ievadīt lietotājvārdu.
 Ievadīt paroli.
 Ja parole ir pareiza -> Nospiest "Ienākt".
