@@ -1,0 +1,16 @@
+Variants 1: Pieslēgšanās e-pastam
+Atvērt interneta pārlūku.
+Ievadīt adresi gmail.com (Ввести адрес).
+Ievadīt lietotājvārdu.
+Ievadīt paroli.
+Ja parole ir pareiza -> Nospiest "Ienākt".
+Ja nē -> Atjaunot paroli.
+Beigas: E-pasts ir atvērts.
+
+Variants 2: Kafijas iegāde
+Pieiet pie kafijas automāta.
+Izvēlēties dzērienu (Melnā kafija / Kapučīno).
+Ja ir pietiekami naudas -> Ievietot naudu/karti.
+Ja nē -> Atcelt pasūtījumu.
+Nospiest pogu "Start".
+Paņemt glāzi.
